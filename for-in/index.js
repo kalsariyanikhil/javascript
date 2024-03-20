@@ -6,7 +6,6 @@
 // let {firstname}=person;
 // console.log(firstname);
 
-
 // for in loop -> array , object
 // for(lat key in Object){
 //     CSSLayerStatementRule....
